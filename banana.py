@@ -25,3 +25,5 @@ def minion_game():
 
 minion_game()
 
+if __name__=='__main__':
+    minion_game()
